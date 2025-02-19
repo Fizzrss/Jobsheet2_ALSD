@@ -5,7 +5,7 @@ public class mataKuliah09 {
     int jumlahJam;
 
     public mataKuliah09(){
-
+        
     }
 
     public mataKuliah09(String idMk, String nm, int sks, int totalJam){
