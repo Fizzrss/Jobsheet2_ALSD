@@ -6,7 +6,7 @@ public class dosen09 {
     String bidangKeahlian;
 
     public dosen09(){
-        
+         
     }
 
     public dosen09(String idDosen, String nama, boolean statusAktif, int tahunBergabung, String bidangKeahlian){
